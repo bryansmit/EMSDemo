@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uH0ccFGuczXrqhLGxDV/Q8qkn8iGnfSmsX7RF4uXJFdaNtwlHC/SxJp4NEFvJvcP0OFqvhQviz0jRJHGCG7WSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan\\RiderProjects\\EMSDemo\\EMSDemo\\EMSDemo.iOS\\EMSDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bryan\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

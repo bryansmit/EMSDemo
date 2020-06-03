@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7V3V2MpB/39TXD8SryATACT2NoXhJp3fvpWutFkSwY323zsOJ0OV4/2npxyagnti99I7HfxszRPSyWJUkpUlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bryan\\RiderProjects\\EMSDemo\\EMSDemo\\EMSDemo\\EMSDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bryan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bryan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bryan\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\bin\Debug\netstandard2.0\EMSDemo.deps.json
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\bin\Debug\netstandard2.0\EMSDemo.dll
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\bin\Debug\netstandard2.0\EMSDemo.pdb
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\EMSDemo.csprojAssemblyReference.cache
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\EMSDemo.csproj.CoreCompileInputs.cache
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\EMSDemo.AssemblyInfoInputs.cache
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\EMSDemo.AssemblyInfo.cs
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\EMSDemo.dll
+C:\Users\bryan\RiderProjects\EMSDemo\EMSDemo\EMSDemo\obj\Debug\netstandard2.0\EMSDemo.pdb
